@@ -7,7 +7,7 @@ Currently, I am **seeking a job in a reputable company** where I can contribute 
 
 ## 🚀 Skills & Technologies  
 - **Programming Languages:** C, C++, Embedded C, Python, JavaScript, SQL, C#
-- **Web Development:** HTML, CSS, JavaScript  
+- **Web Development:** HTML, CSS, JavaScript, Bootstrap
 - **Software Engineering:** OOP, SOLID Principles  
 - **Embedded Systems:** Microprocessors, Low-Level Programming  
 
